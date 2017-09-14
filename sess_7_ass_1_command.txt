@@ -1,0 +1,1 @@
+select count(name), skill from employee_details group by skill;
